@@ -1,0 +1,15 @@
+H:\!!!GeekBrains\HW\SEMINAR11\bin\Debug\net6.0\SEMINAR11.exe
+H:\!!!GeekBrains\HW\SEMINAR11\bin\Debug\net6.0\SEMINAR11.deps.json
+H:\!!!GeekBrains\HW\SEMINAR11\bin\Debug\net6.0\SEMINAR11.runtimeconfig.json
+H:\!!!GeekBrains\HW\SEMINAR11\bin\Debug\net6.0\SEMINAR11.dll
+H:\!!!GeekBrains\HW\SEMINAR11\bin\Debug\net6.0\SEMINAR11.pdb
+H:\!!!GeekBrains\HW\SEMINAR11\obj\Debug\net6.0\SEMINAR11.csproj.AssemblyReference.cache
+H:\!!!GeekBrains\HW\SEMINAR11\obj\Debug\net6.0\SEMINAR11.GeneratedMSBuildEditorConfig.editorconfig
+H:\!!!GeekBrains\HW\SEMINAR11\obj\Debug\net6.0\SEMINAR11.AssemblyInfoInputs.cache
+H:\!!!GeekBrains\HW\SEMINAR11\obj\Debug\net6.0\SEMINAR11.AssemblyInfo.cs
+H:\!!!GeekBrains\HW\SEMINAR11\obj\Debug\net6.0\SEMINAR11.csproj.CoreCompileInputs.cache
+H:\!!!GeekBrains\HW\SEMINAR11\obj\Debug\net6.0\SEMINAR11.dll
+H:\!!!GeekBrains\HW\SEMINAR11\obj\Debug\net6.0\refint\SEMINAR11.dll
+H:\!!!GeekBrains\HW\SEMINAR11\obj\Debug\net6.0\SEMINAR11.pdb
+H:\!!!GeekBrains\HW\SEMINAR11\obj\Debug\net6.0\SEMINAR11.genruntimeconfig.cache
+H:\!!!GeekBrains\HW\SEMINAR11\obj\Debug\net6.0\ref\SEMINAR11.dll
